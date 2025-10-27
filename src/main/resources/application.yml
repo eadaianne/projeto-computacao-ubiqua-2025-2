@@ -2,14 +2,14 @@ spring:
   application:
     name: hemograma-ubiquo
   
-  # Configuração do banco de dados H2 (para desenvolvimento)
+  # Configuraï¿½ï¿½o do banco de dados H2 (para desenvolvimento)
   datasource:
     url: jdbc:h2:mem:hemograma_db;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE
     driver-class-name: org.h2.Driver
     username: sa
     password: 
   
-  # Configuração do JPA/Hibernate
+  # Configuraï¿½ï¿½o do JPA/Hibernate
   jpa:
     database-platform: org.hibernate.dialect.H2Dialect
     hibernate:
@@ -28,19 +28,19 @@ spring:
       settings:
         web-allow-others: true
   
-  # Configuração do Jackson para JSON
+  # Configuraï¿½ï¿½o do Jackson para JSON
   jackson:
     serialization:
       write-dates-as-timestamps: false
     default-property-inclusion: non_null
 
-# Configuração do servidor
+# Configuraï¿½ï¿½o do servidor
 server:
-  port: 8080
+  port: 8081
   servlet:
     context-path: /hemograma-api
 
-# Configuração do Swagger/OpenAPI
+# Configuraï¿½ï¿½o do Swagger/OpenAPI
 springdoc:
   api-docs:
     path: /api-docs
@@ -51,7 +51,7 @@ springdoc:
     tags-sorter: alpha
   show-actuator: false
 
-# Configuração de logging
+# Configuraï¿½ï¿½o de logging
 logging:
   level:
     br.ufg.inf.hemograma: DEBUG
@@ -62,15 +62,15 @@ logging:
     console: "%d{yyyy-MM-dd HH:mm:ss} - %msg%n"
     file: "%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n"
 
-# Configurações específicas da aplicação
+# Configuraï¿½ï¿½es especï¿½ficas da aplicaï¿½ï¿½o
 app:
   hemograma:
-    # Valores de referência para análise (conforme especificação do projeto)
+    # Valores de referï¿½ncia para anï¿½lise (conforme especificaï¿½ï¿½o do projeto)
     valores-referencia:
       leucocitos:
         minimo: 4000.0
         maximo: 11000.0
-        unidade: "/µL"
+        unidade: "/ï¿½L"
       hemoglobina:
         minimo: 12.0
         maximo: 17.5
@@ -78,26 +78,26 @@ app:
       plaquetas:
         minimo: 150000.0
         maximo: 450000.0
-        unidade: "/µL"
+        unidade: "/ï¿½L"
       hematocrito:
         minimo: 36.0
         maximo: 52.0
         unidade: "%"
     
-    # Configurações para análise coletiva
+    # Configuraï¿½ï¿½es para anï¿½lise coletiva
     analise-coletiva:
       janela-deslizante-horas: 24
       limite-alertas-criticos: 5
       percentual-desvio-critico: 50.0
     
-    # Configurações FHIR
+    # Configuraï¿½ï¿½es FHIR
     fhir:
-      server-url: "https://hapi.fhir.org/baseR4"
+      server-url: "http://localhost:8080/fhir"
       subscription-endpoint: "/Subscription"
       observation-endpoint: "/Observation"
       timeout-seconds: 30
 
-# Configuração de segurança (básica para desenvolvimento)
+# Configuraï¿½ï¿½o de seguranï¿½a (bï¿½sica para desenvolvimento)
 management:
   endpoints:
     web:
