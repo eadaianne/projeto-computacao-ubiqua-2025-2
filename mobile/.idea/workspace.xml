@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e509e49a-fac8-4fab-a769-d00a9449ce6a" name="Changes" comment="mobile: commit inicial">
+      <change afterPath="$PROJECT_DIR$/.idea/deviceManager.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/studiobot.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/.idea/AndroidProjectSystem.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/src/androidTest/java/br/ufg/inf/hemogramaapp/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/src/main/java/br/ufg/inf/hemogramaapp/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/src/main/java/br/ufg/inf/hemogramaapp/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/src/main/java/br/ufg/inf/hemogramaapp/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/src/main/java/br/ufg/inf/hemogramaapp/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/app/src/test/java/br/ufg/inf/hemogramaapp/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/model/Alert.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/network/ApiService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/notifications/MyFirebaseMessagingService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HemogramaAlertsApp/ui/AlertListScreen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/classes/br/ufg/inf/hemograma/config/SecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/classes/br/ufg/inf/hemograma/controller/FhirManagementController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/classes/br/ufg/inf/hemograma/controller/FhirSubscriptionController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/classes/br/ufg/inf/hemograma/service/FhirSubscriptionService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/classes/br/ufg/inf/hemograma/service/HemogramaProcessingService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/br/ufg/inf/hemograma/HemogramaUbiquoApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/br/ufg/inf/hemograma/HemogramaUbiquoApplication.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;eadaianne&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/eadaianne/projeto-computacao-ubiqua-2025-2.git&quot;,
+    &quot;accountId&quot;: &quot;2961e3d7-1473-45ba-a31d-c6621f14b5c3&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="34l3DP8GFcHcsKZQAmoIIKnbWr7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;mobile&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/fujioka/OneDrive/Desktop/projeto-computacao-ubiqua-2025-2/mobile/HemogramaAlertsApp/app&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\fujioka\OneDrive\Desktop\projeto-computacao-ubiqua-2025-2\mobile\HemogramaAlertsApp\app" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e509e49a-fac8-4fab-a769-d00a9449ce6a" name="Changes" comment="" />
+      <created>1761774213283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761774213283</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mobile: commit inicial" />
+    <option name="LAST_COMMIT_MESSAGE" value="mobile: commit inicial" />
+  </component>
+</project>
