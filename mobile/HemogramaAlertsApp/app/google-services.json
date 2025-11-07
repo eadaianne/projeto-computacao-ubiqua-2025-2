@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335243861593",
+    "project_id": "hemograma-alerts",
+    "storage_bucket": "hemograma-alerts.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335243861593:android:ef13e7236b31eda1a25b48",
+        "android_client_info": {
+          "package_name": "br.ufg.inf.hemogramaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8guSEHe2tO3B8nYgtgN0ZvlTrbe33IA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
