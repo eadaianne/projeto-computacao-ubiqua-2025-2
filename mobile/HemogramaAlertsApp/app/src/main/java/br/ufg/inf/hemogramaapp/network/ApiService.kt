@@ -5,7 +5,7 @@ import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 import retrofit2.http.GET
 interface ApiService {
-    @GET("alerts")
+    @GET("alertas")
     suspend fun getAlerts(): List<Alert>
 
     companion object {
